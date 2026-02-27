@@ -44,8 +44,10 @@ Step 1: Clone the repository
 
 git clone https://github.com/munda703/microservice.git
 cd microservice
+
 Step 2: Build Docker images
 docker compose build
+
 Step 3: Run the containers
 docker compose up
 If one of the containers is not running, start it manually using:
@@ -53,19 +55,20 @@ docker compose up <service_name> or click play button on it.
 After all containers are running, open the frontend by navigating to:
 http://localhost:3001 from your browser hit enter
 
-7. Application Usage
-8. 
+ Application Usage
+
 • Open http://localhost:3001
 • Register a new user
 • Login with registered credentials
 • After successful login, system navigates to MyDetails page
-9. Important Note
-10. 
+Important Note
+
 Before running this microservices project, ensure that the monolithic version of the application is stopped and deleted to avoid database conflicts.
 To remove old containers and volumes:
 docker compose down -v
-11. Source Control
-12. 
+
+Source Control
+
 This project is managed using Git and hosted on GitHub:
 https://github.com/munda703/microservice.git
 
