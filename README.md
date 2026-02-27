@@ -7,15 +7,15 @@ This project is a Dockerized microservices-based authentication system built usi
 3. Architecture
 The solution follows a Microservices Architecture and includes the following services:
 
- • API Gateway – Routes requests to internal services
+  • API Gateway – Routes requests to internal services
 
- • RegistrationService – Handles user registration
+  • RegistrationService – Handles user registration
 
- • UserService – Handles user login and user details
+  • UserService – Handles user login and user details
 
- • ClientApp – React frontend application
+  • ClientApp – React frontend application
 
-• PostgreSQL – Database container
+  • PostgreSQL – Database container
 
 Each service runs in its own Docker container and communicates through Docker's internal network using service names.
 
