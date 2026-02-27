@@ -6,31 +6,48 @@ This project is a Dockerized microservices-based authentication system built usi
 
 3. Architecture
 The solution follows a Microservices Architecture and includes the following services:
-• API Gateway – Routes requests to internal services
-• RegistrationService – Handles user registration
-• UserService – Handles user login and user details
-• ClientApp – React frontend application
+
+ • API Gateway – Routes requests to internal services
+
+ • RegistrationService – Handles user registration
+
+ • UserService – Handles user login and user details
+
+ • ClientApp – React frontend application
+
 • PostgreSQL – Database container
+
 Each service runs in its own Docker container and communicates through Docker's internal network using service names.
 
 5. Technologies Used
 Backend:
-• ASP.NET Core (.NET 8)
-• Entity Framework Core
-• PostgreSQL
-• JWT Authentication
-• FluentValidation
-• Serilog
-Frontend:
-• React (Vite)
-• Axios / Fetch API
-• nginx (Production serving)
-DevOps:
-• Docker
-• Docker Compose
-• Git & GitHub
+ • ASP.NET Core (.NET 8)
 
-6. How the System Works
+ • Entity Framework Core
+ 
+ • PostgreSQL
+ 
+ • JWT Authentication
+ 
+ • FluentValidation
+ 
+ • Serilog
+ 
+Frontend:
+ • React (Vite)
+
+ • Axios / Fetch API
+ 
+ • nginx (Production serving)
+ 
+DevOps:
+ • Docker
+ 
+ • Docker Compose
+ 
+ • Git & GitHub
+
+7. How the System Works
 1. User registers through the frontend.
 2. RegistrationService stores the user in PostgreSQL.
 3. User logs in via UserService.
@@ -57,13 +74,13 @@ http://localhost:3001 from your browser hit enter
 
  Application Usage
 
-• Open http://localhost:3001
+   Open http://localhost:3001
 
-• Register a new user
+   Register a new user
 
-• Login with registered credentials
+   Login with registered credentials
 
-• After successful login, system navigates to MyDetails page
+   After successful login, system navigates to MyDetails page
 
 Important Note
 
