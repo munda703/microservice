@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MicroService\\APIGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|c:\\microservice\\apigateway\\tests\\unittests\\integration\\gatewayintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\integration\\gatewayintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|c:\\microservice\\apigateway\\tests\\unittests\\controllers\\gatewaycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\controllers\\gatewaycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFF97B-9A5F-EA97-093C-84C783EDB4CA}|Api\\ApiGateway.csproj|c:\\microservice\\apigateway\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48DFF97B-9A5F-EA97-093C-84C783EDB4CA}|Api\\ApiGateway.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|c:\\microservice\\apigateway\\application\\services\\gatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|solutionrelative:application\\services\\gatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|c:\\microservice\\apigateway\\application\\interfaces\\igatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|solutionrelative:application\\interfaces\\igatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFF97B-9A5F-EA97-093C-84C783EDB4CA}|Api\\ApiGateway.csproj|c:\\microservice\\apigateway\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFF97B-9A5F-EA97-093C-84C783EDB4CA}|Api\\ApiGateway.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|c:\\microservice\\apigateway\\tests\\unittests\\integration\\testwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\integration\\testwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFF97B-9A5F-EA97-093C-84C783EDB4CA}|Api\\ApiGateway.csproj|c:\\microservice\\apigateway\\api\\globalexceptionmiddleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFF97B-9A5F-EA97-093C-84C783EDB4CA}|Api\\ApiGateway.csproj|solutionrelative:api\\globalexceptionmiddleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GatewayControllerTests.cs",
+              "DocumentMoniker": "C:\\MicroService\\APIGateway\\Tests\\UnitTests\\Controllers\\GatewayControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\Controllers\\GatewayControllerTests.cs",
+              "ToolTip": "C:\\MicroService\\APIGateway\\Tests\\UnitTests\\Controllers\\GatewayControllerTests.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\Controllers\\GatewayControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:12:53.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GatewayService.cs",
+              "DocumentMoniker": "C:\\MicroService\\APIGateway\\Application\\Services\\GatewayService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\GatewayService.cs",
+              "ToolTip": "C:\\MicroService\\APIGateway\\Application\\Services\\GatewayService.cs",
+              "RelativeToolTip": "Application\\Services\\GatewayService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:43:54.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MicroService\\APIGateway\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\MicroService\\APIGateway\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:40:31.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MicroService\\APIGateway\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\MicroService\\APIGateway\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T16:29:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGatewayService.cs",
+              "DocumentMoniker": "C:\\MicroService\\APIGateway\\Application\\Interfaces\\IGatewayService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IGatewayService.cs",
+              "ToolTip": "C:\\MicroService\\APIGateway\\Application\\Interfaces\\IGatewayService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IGatewayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:36:45.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GatewayIntegrationTests.cs",
+              "DocumentMoniker": "C:\\MicroService\\APIGateway\\Tests\\UnitTests\\Integration\\GatewayIntegrationTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\Integration\\GatewayIntegrationTests.cs",
+              "ToolTip": "C:\\MicroService\\APIGateway\\Tests\\UnitTests\\Integration\\GatewayIntegrationTests.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\Integration\\GatewayIntegrationTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:15:23.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\MicroService\\APIGateway\\Api\\GlobalExceptionMiddleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Api\\GlobalExceptionMiddleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\MicroService\\APIGateway\\Api\\GlobalExceptionMiddleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Api\\GlobalExceptionMiddleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:56:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\MicroService\\APIGateway\\Tests\\UnitTests\\Integration\\TestWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\Integration\\TestWebApplicationFactory.cs",
+              "ToolTip": "C:\\MicroService\\APIGateway\\Tests\\UnitTests\\Integration\\TestWebApplicationFactory.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\Integration\\TestWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:46:49.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

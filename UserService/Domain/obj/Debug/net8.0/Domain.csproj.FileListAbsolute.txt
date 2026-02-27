@@ -1,0 +1,24 @@
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\MicroService\UserService\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\MicroService\UserService\Domain\bin\Debug\net8.0\Domain.dll
+C:\MicroService\UserService\Domain\bin\Debug\net8.0\Domain.pdb
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\Domain.dll
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\Domain.pdb
+C:\MicroService\UserService\Domain\obj\Debug\net8.0\ref\Domain.dll

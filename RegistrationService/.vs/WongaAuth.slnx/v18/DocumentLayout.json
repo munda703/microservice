@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MicroService\\RegistrationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|c:\\microservice\\registrationservice\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|c:\\microservice\\registrationservice\\application\\interfaces\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|c:\\microservice\\registrationservice\\api\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|solutionrelative:api\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|c:\\microservice\\registrationservice\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|c:\\microservice\\registrationservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|c:\\microservice\\registrationservice\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|c:\\microservice\\registrationservice\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|c:\\microservice\\registrationservice\\tests\\unittests\\controllers\\registrationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\controllers\\registrationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|c:\\microservice\\registrationservice\\application\\mappings\\mappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC74EDB5-44D2-42EB-9D6C-9BB6E78C4D6F}|Application\\Application.csproj|solutionrelative:application\\mappings\\mappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F9159C-2F60-4353-8FDC-6DDE849306FD}|Infrastructure\\Infrastructure.csproj|c:\\microservice\\registrationservice\\infrastructure\\ef core configs\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F9159C-2F60-4353-8FDC-6DDE849306FD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef core configs\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|c:\\microservice\\registrationservice\\tests\\unittests\\integration\\registrationintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\integration\\registrationintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|c:\\microservice\\registrationservice\\tests\\unittests\\integration\\testwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E57209-7C27-4FDE-81A8-A6672C55B500}|Tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\integration\\testwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F9159C-2F60-4353-8FDC-6DDE849306FD}|Infrastructure\\Infrastructure.csproj|c:\\microservice\\registrationservice\\infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F9159C-2F60-4353-8FDC-6DDE849306FD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F9159C-2F60-4353-8FDC-6DDE849306FD}|Infrastructure\\Infrastructure.csproj|c:\\microservice\\registrationservice\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F9159C-2F60-4353-8FDC-6DDE849306FD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|c:\\microservice\\registrationservice\\api\\globalexceptionmiddleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED54D7-3104-BEC7-F626-ADFB93A40191}|Api\\RegistrationAPI.csproj|solutionrelative:api\\globalexceptionmiddleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationIntegrationTests.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Tests\\UnitTests\\Integration\\RegistrationIntegrationTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\Integration\\RegistrationIntegrationTests.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Tests\\UnitTests\\Integration\\RegistrationIntegrationTests.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\Integration\\RegistrationIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:01:00.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Api\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Api\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Api\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:48:10.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAUwHwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:40:31.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T16:29:26.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:43:54.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRegistrationService.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Application\\Interfaces\\IRegistrationService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IRegistrationService.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Application\\Interfaces\\IRegistrationService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:57:48.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Tests\\UnitTests\\Integration\\TestWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\Integration\\TestWebApplicationFactory.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Tests\\UnitTests\\Integration\\TestWebApplicationFactory.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\Integration\\TestWebApplicationFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:01:37.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T19:21:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T16:29:41.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mappings.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Application\\Mappings\\Mappings.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\Mappings.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Application\\Mappings\\Mappings.cs",
+              "RelativeToolTip": "Application\\Mappings\\Mappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:03:40.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationControllerTests.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Tests\\UnitTests\\Controllers\\RegistrationControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\Controllers\\RegistrationControllerTests.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Tests\\UnitTests\\Controllers\\RegistrationControllerTests.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\Controllers\\RegistrationControllerTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:04:58.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Infrastructure\\EF Core configs\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF Core configs\\UserConfiguration.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Infrastructure\\EF Core configs\\UserConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\EF Core configs\\UserConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:29:05.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:46:03.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Api\\GlobalExceptionMiddleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Api\\GlobalExceptionMiddleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Api\\GlobalExceptionMiddleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Api\\GlobalExceptionMiddleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:56:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\MicroService\\RegistrationService\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\MicroService\\RegistrationService\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:40:02.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

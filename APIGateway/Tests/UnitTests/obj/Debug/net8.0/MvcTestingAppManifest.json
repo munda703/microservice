@@ -1,0 +1,5 @@
+{
+  "ApiGateway, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\MicroService\\APIGateway\\Api",
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\MicroService\\APIGateway\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\MicroService\\APIGateway\\Domain"
+}

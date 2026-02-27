@@ -1,0 +1,32 @@
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\bin\Debug\net8.0\Application.dll
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\Application.dll
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\monde\OneDrive\Documents\visual studio projects\WongaAuth\Application\obj\Debug\net8.0\ref\Application.dll
+C:\MicroService\APIGateway\Application\bin\Debug\net8.0\Application.deps.json
+C:\MicroService\APIGateway\Application\bin\Debug\net8.0\Application.dll
+C:\MicroService\APIGateway\Application\bin\Debug\net8.0\Application.pdb
+C:\MicroService\APIGateway\Application\bin\Debug\net8.0\Domain.dll
+C:\MicroService\APIGateway\Application\bin\Debug\net8.0\Domain.pdb
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\Application.dll
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\refint\Application.dll
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\Application.pdb
+C:\MicroService\APIGateway\Application\obj\Debug\net8.0\ref\Application.dll

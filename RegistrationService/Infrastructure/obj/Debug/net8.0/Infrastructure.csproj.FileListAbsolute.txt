@@ -1,0 +1,17 @@
+C:\MicroService\RegistrationService\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\MicroService\RegistrationService\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\MicroService\RegistrationService\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\MicroService\RegistrationService\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\MicroService\RegistrationService\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\MicroService\RegistrationService\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\MicroService\RegistrationService\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

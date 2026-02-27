@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api",
+    "\\Infrastructure",
+    "\\Infrastructure\\Repository",
+    "\\Infrastructure\\UnitOfWork"
+  ],
+  "SelectedNode": "\\Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

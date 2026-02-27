@@ -1,0 +1,71 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: wonga_postgres
+    restart: always
+    environment:
+      POSTGRES_DB: wongaAssessment
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  user_service:
+    build:
+      context: .
+      dockerfile: ./UserService/Api/Dockerfile
+    container_name: user_service
+    depends_on:
+      - postgres
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8081
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=wongaAssessment;Username=postgres;Password=1234
+    ports:
+      - "5012:8081"
+
+  register_service:
+    build:
+      context: .
+      dockerfile: ./RegistrationService/Api/Dockerfile
+    container_name: register_service
+    depends_on:
+      - postgres
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8082
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=wongaAssessment;Username=postgres;Password=1234
+    ports:
+      - "5050:8082"
+
+  api_gateway:
+    build:
+      context: .
+      dockerfile: ./APIGateway/Api/Dockerfile
+    container_name: api_gateway
+    depends_on:
+      - register_service
+      - user_service
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8080
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=wongaAssessment;Username=postgres;Password=1234
+    ports:
+      - "5090:8080"
+
+  frontend:
+    build:
+      context: ./ClientApp/WongaAssessment
+      dockerfile: Dockerfile
+    container_name: wonga_frontend
+    depends_on:
+      - api_gateway
+    ports:
+      - "3001:80"
+
+volumes:
+  postgres_data:

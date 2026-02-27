@@ -1,0 +1,6 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\MicroService\\RegistrationService\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\MicroService\\RegistrationService\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\MicroService\\RegistrationService\\Infrastructure",
+  "RegistrationAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\MicroService\\RegistrationService\\Api"
+}
