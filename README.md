@@ -63,14 +63,14 @@ git clone https://github.com/munda703/microservice.git
 cd microservice
 
 Step 2: Build Docker images
-docker compose build
+ docker compose build
 
 Step 3: Run the containers
-docker compose up
-If one of the containers is not running, start it manually using:
-docker compose up <service_name> or click play button on it.
-After all containers are running, open the frontend by navigating to:
-http://localhost:3001 from your browser hit enter
+ docker compose up
+ If one of the containers is not running, start it manually using:
+ docker compose up <service_name> or click play button on it.
+ After all containers are running, open the frontend by navigating to:
+ http://localhost:3001 from your browser hit enter
 
  Application Usage
 
