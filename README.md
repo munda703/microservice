@@ -58,9 +58,13 @@ http://localhost:3001 from your browser hit enter
  Application Usage
 
 • Open http://localhost:3001
+
 • Register a new user
+
 • Login with registered credentials
+
 • After successful login, system navigates to MyDetails page
+
 Important Note
 
 Before running this microservices project, ensure that the monolithic version of the application is stopped and deleted to avoid database conflicts.
